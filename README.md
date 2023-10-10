@@ -1,4 +1,12 @@
+
 # TS-AppVersion
+# @sharmanikhil04/ts-appversion
+
+## Why this repo?
+
+This repo is a fork of https://github.com/saitho/ts-appversion.
+
+It was forked to update dependencies and keep this upto date, especially prevent security issues due to dependencies of this repository.
 
 [![Build Status](https://travis-ci.com/saitho/ng-appversion.svg?branch=master)](https://travis-ci.com/saitho/ng-appversion)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ts-appversion&metric=alert_status)](https://sonarcloud.io/dashboard?id=ts-appversion)
